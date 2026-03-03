@@ -1,9 +1,9 @@
-# 💧 Water Potability Prediction
+#  Water Potability Prediction
 
-## 📌 Problem Statement
+##  Problem Statement
 This project predicts whether water is safe for drinking based on its chemical properties.
 
-## 📊 Dataset Description
+##  Dataset Description
 The dataset contains water quality parameters such as:
 - pH
 - Hardness
@@ -19,7 +19,7 @@ The target variable indicates:
 - 1 → Potable (Safe to drink)
 - 0 → Not Potable (Unsafe)
 
-## 🛠 Project Workflow
+##  Project Workflow
 1. Data Cleaning
 2. Handling Missing Values
 3. Exploratory Data Analysis (EDA)
@@ -27,8 +27,8 @@ The target variable indicates:
 5. Model Training
 6. Model Evaluation
 
-## 📈 Results
+##  Results
 The model was evaluated using accuracy score and classification metrics.
 
-## 🎯 Conclusion
+##  Conclusion
 This project demonstrates how machine learning can be used to analyze water quality data and predict potability effectively.
